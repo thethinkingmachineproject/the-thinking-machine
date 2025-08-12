@@ -10,7 +10,7 @@ To create a platform where **AI-powered tools and human creativity** come togeth
 
 ---
 
-## 🎯 What We Do
+## 🎯 What I Do
 - Write **original essays** on AI, ethics, and philosophy.
 - Develop **AI-assisted tools** that encourage curiosity and learning.
 - Experiment with **new AI systems** to explore how technology can enhance human thought.
