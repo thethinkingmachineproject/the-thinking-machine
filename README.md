@@ -20,9 +20,7 @@ To create a platform where **AI-powered tools and human creativity** come togeth
 
 ## 🛠️ Technologies & Tools
 - **Python** – Core programming language for AI models and experiments.
-- **OpenAI API** – For natural language generation and analysis.
-- **GitHub Pages** – To publish ideas and tools online.
-- **Markdown** – For clean and accessible documentation.
+- **GitHub Pages** – To publish ideas and tools.
 
 ---
 
